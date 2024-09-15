@@ -17,7 +17,7 @@ Provide actionable recommendations to improve customer engagement and service qu
 Data Sources
 The data used for this analysis spans from March 2016 to October 2023 and includes the following dimensions:
 
-- Travel Type: Business, Leisure, or Mixed travel.
+- Travel Type: Business, Family, couple and solo Leisure.
 - Seat Type: Economy, Premium Economy, Business Class, First Class.
 - Continent: Customer data from flights across different continents (e.g., Europe, North America, Asia).
 - Aircraft Type: Various aircraft models (e.g., Airbus A380, Boeing 777) used for the flights.
